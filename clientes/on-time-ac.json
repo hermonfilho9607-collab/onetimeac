@@ -1,0 +1,122 @@
+{
+  "slug": "on-time-ac",
+  "business_name": "On Time AC Service",
+  "tagline": "AC Repair · Installation · Maintenance",
+  "logo": "logo.png",
+  "city": "Tampa",
+  "state": "FL",
+  "address": "Tampa, FL",
+  "phone": "(813) 898-3585",
+  "email": "",
+  "license": "",
+  "website_url": "",
+  "form_action": "",
+  "map_embed": "https://www.google.com/maps?q=On+Time+AC+Service+LLC,+Tampa,+FL&output=embed",
+  "hero_image": "",
+
+  "colors": {
+    "primary": "#0B4F8A",
+    "primary_dark": "#082A4D",
+    "accent": "#C9302C",
+    "accent_text": "#FFFFFF",
+    "tint": "#F0F5FA"
+  },
+
+  "seo": {
+    "title": "AC Repair & Installation in Tampa, FL | On Time AC Service",
+    "description": "5-star rated AC repair, installation and maintenance in Tampa, FL. Fast response, honest pricing and technicians who show up on time. Call (813) 898-3585."
+  },
+
+  "topbar_message": "Fast AC Repair in Tampa",
+  "hours_short": "Mon–Fri 8am–5pm",
+  "phone_label": "Call Now",
+  "cta_primary": "Get a Free Estimate",
+
+  "hero": {
+    "eyebrow": "Tampa Bay's 5-Star AC Company",
+    "headline": "Cool Air Back in Your Home —",
+    "headline_highlight": "On Time.",
+    "subheadline": "Fast, honest AC repair and installation in Tampa. We show up when we say, explain everything clearly, and get your system running right.",
+    "badges": ["5.0★ on Google (55 reviews)", "Fast Response", "Clear, Fair Pricing", "Clean, Detailed Work"]
+  },
+
+  "form": {
+    "title": "Get Your Free Estimate",
+    "subtitle": "Tell us what's going on with your AC — we'll call you back fast.",
+    "button": "Request My Estimate",
+    "note": "No spam. No obligation."
+  },
+
+  "trust": [
+    { "value": "5.0★", "label": "Google rating" },
+    { "value": "55+", "label": "5-star reviews" },
+    { "value": "Fast", "label": "Response times" },
+    { "value": "Fair", "label": "Upfront pricing" }
+  ],
+
+  "services_title": "Everything Your AC Needs in the Florida Heat",
+  "services_intro": "From a system that quit on the hottest day of the year to a full replacement, one local team handles it all.",
+  "services": [
+    { "icon": "snowflake", "title": "AC Repair", "text": "Fast diagnosis and repair for central AC systems — most problems fixed on the first visit." },
+    { "icon": "fan", "title": "AC Installation & Replacement", "text": "Right-sized, high-efficiency systems installed clean and backed by manufacturer warranties." },
+    { "icon": "wrench", "title": "AC Maintenance", "text": "Tune-ups that prevent breakdowns, lower your power bill and extend the life of your system." },
+    { "icon": "split", "title": "Ductless Mini-Splits", "text": "Quiet, efficient cooling for garages, additions and rooms the main system can't reach." },
+    { "icon": "flame", "title": "Heat Pumps", "text": "Repair and installation of heat pumps for efficient cooling all summer and warmth on cool nights." },
+    { "icon": "wind", "title": "Indoor Air Quality", "text": "Filtration and humidity control for cleaner, healthier air in Florida's humid climate." }
+  ],
+
+  "offer": null,
+
+  "why_title": "The AC Company Tampa Neighbors Recommend",
+  "why": [
+    { "icon": "clock", "title": "Actually On Time", "text": "It's in our name. We give you a real arrival window and we keep it." },
+    { "icon": "tag", "title": "Fair, Clear Pricing", "text": "You know the price before any work starts. No surprises on the invoice." },
+    { "icon": "shield", "title": "Clean, Detailed Work", "text": "We treat your home with respect and leave the work area spotless." },
+    { "icon": "thumb", "title": "5-Star Rated", "text": "55 five-star reviews on Google from homeowners across the Tampa area." }
+  ],
+
+  "about": {
+    "image": "owner.jpg",
+    "title": "Local, Owner-Operated and Here When You Need Us",
+    "text": "On Time AC Service was built on a simple idea: Floridians shouldn't have to struggle to find an AC company they can trust. We respond quickly, explain the problem in plain English, and fix it right the first time.",
+    "signature": "The On Time AC Team"
+  },
+
+  "steps_title": "Your AC Fixed in 3 Simple Steps",
+  "steps_intro": "No runaround. Here's exactly what happens when you call.",
+  "steps": [
+    { "title": "Call or Request Online", "text": "Tell us what's going on. We'll get you on the schedule fast — often the same day." },
+    { "title": "Clear Diagnosis", "text": "Your technician inspects the system and explains the options and price before starting." },
+    { "title": "Cool Again", "text": "We complete the work, test everything, and leave your home clean." }
+  ],
+
+  "reviews_title": "What Tampa Homeowners Say",
+  "rating": { "value": "5.0", "count": "55", "link": "https://www.google.com/maps/place/On+Time+AC+Service+LLC/@27.992063,-82.4542805,15z/data=!4m6!3m5!1s0x6fbbaf2f9d9b63b3:0xb6ddb14a0dd6cc1d!8m2!3d27.992063!4d-82.4542805!16s%2Fg%2F11sq55vb1j" },
+  "reviews": [
+    { "stars": 5, "name": "Yakelin H.", "place": "Google review", "text": "Excellent AC service from start to finish. They were truly ON TIME, explained everything clearly, and did an excellent job servicing our AC. Very professional, courteous, and knowledgeable. Highly recommend!" },
+    { "stars": 5, "name": "Ron W.", "place": "Google review", "text": "One of the best A/C companies in this area. Quick response, professional, extremely knowledgeable. Within half an hour the system was up and running. Highly recommend this company to anyone having A/C problems." },
+    { "stars": 5, "name": "Ernie R.", "place": "Google review", "text": "I've lived in Florida most of my life with the same challenge every Floridian has — finding a good A/C company. I'm elated to say On Time AC Services is not just good, they are amazing." }
+  ],
+
+  "areas_title": "Proudly Serving Tampa Bay",
+  "areas_intro": "Fast response across Tampa and nearby communities.",
+  "areas": ["Tampa", "Seminole Heights", "Temple Terrace", "Carrollwood", "Town 'n' Country", "Westchase", "Lutz", "Brandon", "Riverview", "Wesley Chapel", "Valrico", "Seffner"],
+
+  "faq": [
+    { "q": "How fast can you come out?", "a": "We respond quickly and often schedule same-day visits. Call us and we'll give you a real arrival window." },
+    { "q": "How much does an AC service call cost?", "a": "We charge a diagnostic fee and always give you the full price before any work starts — no surprises." },
+    { "q": "Should I repair or replace my AC?", "a": "It depends on the system's age, condition and repair cost. We'll give you an honest recommendation and both options so you can decide." },
+    { "q": "How often should my AC be serviced in Florida?", "a": "Because AC runs most of the year here, we recommend a tune-up at least once a year — ideally before summer." },
+    { "q": "What areas do you serve?", "a": "We serve Tampa and the surrounding Tampa Bay communities. Call us to confirm we cover your neighborhood." }
+  ],
+
+  "final": {
+    "eyebrow": "Don't Sweat It",
+    "title": "AC Acting Up? We'll Be There On Time.",
+    "text": "Call now and talk to a real person."
+  },
+
+  "footer_blurb": "5-star rated AC repair, installation and maintenance serving Tampa and the surrounding Tampa Bay area.",
+  "hours": ["Mon–Fri: 8am – 5pm", "Saturday: by appointment", "Sunday: closed"],
+  "social": []
+}

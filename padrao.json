@@ -1,0 +1,131 @@
+{
+  "nome": "Padrão de site local - HVAC / Encanamento (EUA)",
+  "versao": "1.0",
+  "data_analise": "2026-10-28",
+  "referencias": [
+    {
+      "url": "https://taylorgroupplumbing.com/",
+      "nicho": "Encanamento + HVAC (Manhattan)",
+      "cores": { "base": "#193193", "acento": "#D94263", "apoio": "#EFA358" },
+      "fontes": ["Raleway"],
+      "destaques": ["barra de emergência no topo", "garantia de satisfação", "bloco de financiamento", "vídeo", "mapa do Google", "chat Housecall Pro"],
+      "telefones_clicaveis": 6,
+      "formularios": 3
+    },
+    {
+      "url": "https://www.212hvac.com/",
+      "nicho": "HVAC (Brooklyn)",
+      "cores": { "base": "#091927", "acento": "#FFB400", "apoio": "#00B4F0" },
+      "fontes": ["Helvetica"],
+      "destaques": ["hero com foto real do técnico", "2 CTAs no hero", "menu Reparo/Instalação/Manutenção", "rebates da Con Edison", "FAQ", "depoimentos"],
+      "telefones_clicaveis": 3,
+      "formularios": 0
+    },
+    {
+      "url": "https://www.nyheatingandcooling.com/",
+      "nicho": "HVAC (Staten Island / Brooklyn)",
+      "cores": { "base": "#0A2573", "acento": "#EA0F14", "apoio": "#F7F7F7" },
+      "fontes": ["Open Sans", "Source Sans Pro"],
+      "destaques": ["formulário dentro do hero", "promoção com valor em dólar", "áreas atendidas", "widget de avaliações Birdeye", "horário de funcionamento", "vagas de emprego"],
+      "telefones_clicaveis": 5,
+      "formularios": 2
+    },
+    {
+      "url": "https://energo.com/",
+      "nicho": "Energia + HVAC (NYC)",
+      "cores": { "base": "#082398", "acento": "#001777", "apoio": "#EEF4FA" },
+      "fontes": ["Neue Haas Grotesk", "Helvetica Neue"],
+      "destaques": ["visual corporativo premium", "depoimentos com nome", "áreas atendidas", "blog", "newsletter", "chat HubSpot", "login do cliente"],
+      "telefones_clicaveis": 2,
+      "formularios": 3
+    },
+    {
+      "url": "https://www.patriotheatingcooling.net/",
+      "nicho": "HVAC (Staten Island)",
+      "cores": { "base": "#1C1F26", "acento": "#FF1A00", "apoio": "#EFF6F9" },
+      "fontes": ["Open Sans", "Source Sans Pro"],
+      "destaques": ["telefone + Book Online fixos no topo", "seção passo a passo", "galeria de trabalhos"],
+      "telefones_clicaveis": 3,
+      "formularios": 0
+    }
+  ],
+
+  "obrigatorio": [
+    "Telefone clicável (tel:) em pelo menos 4 pontos: topo, header, hero, CTA final, rodapé",
+    "Botão de ação destacado no header (Schedule / Book / Get a Quote)",
+    "Hero com foto real escurecida e H1 com serviço + cidade",
+    "Grade de serviços (mínimo: Reparo, Instalação, Manutenção)",
+    "Prova social (avaliações ou depoimentos com nome)",
+    "Áreas atendidas listadas por nome",
+    "Rodapé com nome, endereço, telefone e horário"
+  ],
+
+  "diferenciais": [
+    "Formulário de orçamento dentro do hero",
+    "Oferta com valor em dólar (rebate, desconto, financiamento)",
+    "FAQ com preço, licença, emergência e prazo",
+    "Seção 'como funciona' em 3 passos",
+    "Selos de confiança: licenciado, segurado, anos de experiência, nota Google",
+    "Destaque 24/7 para emergências",
+    "Barra fixa com Ligar / Orçamento no celular",
+    "Chat flutuante"
+  ],
+
+  "secoes": [
+    { "ordem": 1, "id": "topbar", "nome": "Barra superior", "conteudo": ["mensagem 24/7", "telefone", "horário", "licença"] },
+    { "ordem": 2, "id": "header", "nome": "Header fixo", "conteudo": ["logo", "menu", "telefone", "botão CTA"] },
+    { "ordem": 3, "id": "hero", "nome": "Hero", "conteudo": ["eyebrow com cidades", "H1 serviço + cidade", "subtítulo", "botão ligar", "botão orçamento", "4 selos", "formulário"] },
+    { "ordem": 4, "id": "trust", "nome": "Faixa de confiança", "conteudo": ["nota Google", "anos de empresa", "serviços feitos", "24/7"] },
+    { "ordem": 5, "id": "services", "nome": "Serviços", "conteudo": ["6 cards com ícone, título e texto curto"] },
+    { "ordem": 6, "id": "offer", "nome": "Oferta", "conteudo": ["título com valor em $", "texto", "botão"] },
+    { "ordem": 7, "id": "why", "nome": "Por que nós + Sobre", "conteudo": ["4 diferenciais", "bloco sobre com foto da equipe"] },
+    { "ordem": 8, "id": "steps", "nome": "Como funciona", "conteudo": ["3 passos"] },
+    { "ordem": 9, "id": "reviews", "nome": "Avaliações", "conteudo": ["3 depoimentos reais", "nota média + link do Google"] },
+    { "ordem": 10, "id": "areas", "nome": "Áreas atendidas", "conteudo": ["chips com bairros", "mapa"] },
+    { "ordem": 11, "id": "faq", "nome": "FAQ", "conteudo": ["4 a 6 perguntas"] },
+    { "ordem": 12, "id": "final", "nome": "CTA final", "conteudo": ["título", "telefone grande", "botão"] },
+    { "ordem": 13, "id": "footer", "nome": "Rodapé", "conteudo": ["NAP", "serviços", "áreas", "horário", "redes sociais", "licença"] },
+    { "ordem": 14, "id": "mobile_bar", "nome": "Barra fixa mobile", "conteudo": ["Call Now", "Free Quote"] }
+  ],
+
+  "visual": {
+    "cores": {
+      "regra": "Base azul-marinho (confiança) + 1 acento quente (vermelho/laranja/amarelo) usado só em CTAs",
+      "base_sugerida": "#0F2D6B",
+      "base_escura_sugerida": "#0A1A3A",
+      "acento_sugerido": "#F4511E",
+      "fundo_alternado": "#F1F5FA"
+    },
+    "fontes": {
+      "titulos": "Archivo (800-900)",
+      "texto": "Source Sans 3 (400-700)",
+      "observacao": "Sans-serif robusta; títulos grandes e pesados"
+    },
+    "fotos": ["técnico uniformizado", "van com logo", "equipamento instalado", "equipe"],
+    "ritmo_de_fundos": ["branco", "cinza-azulado claro", "marinho"]
+  },
+
+  "copy": {
+    "title_seo": "{servico_principal} in {cidade}, {estado} | {marca}",
+    "meta_description": "{promessa}. {servicos} in {cidade}. Licensed & insured, 24/7. Call {telefone}.",
+    "h1": ["{servico} in {cidade}", "{cidade}'s Trusted {servico} Experts"],
+    "subtitulo": ["3 adjetivos curtos: Fast. Honest. Licensed.", "Promessa concreta: Same-day repairs, upfront pricing"],
+    "ctas": ["Call Now", "Get a Free Estimate", "Schedule Service", "Book Online"],
+    "gatilhos": ["24/7", "same-day", "licensed & insured", "upfront pricing", "satisfaction guaranteed", "X years", "financing", "rebates"]
+  },
+
+  "seo_local": [
+    "Cidade/bairro no title, H1, meta description e rodapé",
+    "Schema JSON-LD HVACBusiness com nome, telefone, endereço, horário e nota",
+    "Lista de áreas atendidas por nome",
+    "FAQ em texto",
+    "Links tel: em todos os pontos",
+    "Link do Google Business Profile com UTM apontando para a home"
+  ],
+
+  "campos_do_cliente": {
+    "arquivo_modelo": "clientes/exemplo.json",
+    "obrigatorios": ["business_name", "phone", "city", "state", "services"],
+    "recomendados": ["address", "email", "license", "hero_image", "logo", "colors", "reviews", "areas", "faq", "form_action", "map_embed"]
+  }
+}

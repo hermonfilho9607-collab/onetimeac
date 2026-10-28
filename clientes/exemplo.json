@@ -1,0 +1,129 @@
+{
+  "slug": "northside-air",
+  "business_name": "Northside Air & Heat",
+  "tagline": "Heating · Cooling · Air Quality",
+  "logo": "",
+  "city": "Queens",
+  "state": "NY",
+  "address": "123 Example Ave, Astoria, NY 11102",
+  "phone": "(718) 555-0142",
+  "email": "service@example.com",
+  "license": "0000000-DCA",
+  "website_url": "https://www.example.com/",
+  "form_action": "",
+  "map_embed": "",
+  "hero_image": "",
+
+  "colors": {
+    "primary": "#0F2D6B",
+    "primary_dark": "#0A1A3A",
+    "accent": "#F4511E",
+    "accent_text": "#FFFFFF",
+    "tint": "#F1F5FA"
+  },
+
+  "seo": {
+    "title": "AC Repair & Heating Services in Queens, NY | Northside Air & Heat",
+    "description": "Same-day AC repair, heating and boiler service in Queens, NY. Licensed & insured, upfront pricing, 24/7 emergency service. Call (718) 555-0142."
+  },
+
+  "topbar_message": "24/7 Emergency Service",
+  "hours_short": "Mon–Sat 7am–8pm · Emergencies 24/7",
+  "cta_primary": "Get a Free Estimate",
+  "phone_label": "Call 24/7",
+
+  "hero": {
+    "eyebrow": "Queens · Brooklyn · Long Island City",
+    "headline": "Heating & Cooling Done Right in",
+    "headline_highlight": "Queens",
+    "subheadline": "Same-day repairs, honest upfront pricing and technicians who treat your home like their own.",
+    "badges": ["Licensed & Insured", "Same-Day Service", "Upfront Pricing", "Satisfaction Guaranteed"]
+  },
+
+  "form": {
+    "title": "Get Your Free Estimate",
+    "subtitle": "Tell us what's going on — we'll call you back within 15 minutes during business hours.",
+    "button": "Request My Estimate",
+    "note": "No spam. No obligation."
+  },
+
+  "trust": [
+    { "value": "4.9★", "label": "Google rating" },
+    { "value": "15+", "label": "Years in business" },
+    { "value": "3,000+", "label": "Systems serviced" },
+    { "value": "24/7", "label": "Emergency response" }
+  ],
+
+  "services_title": "Everything Your Home's Comfort Needs",
+  "services_intro": "From a no-cool call on the hottest day of July to a full system replacement, one team handles it all.",
+  "services": [
+    { "icon": "snowflake", "title": "AC Repair", "text": "Fast diagnosis and repair for central air, window and through-wall units — most fixes done on the first visit." },
+    { "icon": "fan", "title": "AC Installation", "text": "Right-sized, high-efficiency systems installed clean, on schedule, and backed by manufacturer warranties." },
+    { "icon": "flame", "title": "Heating & Boilers", "text": "Furnace, boiler and heat pump repair and replacement to keep you warm all winter." },
+    { "icon": "split", "title": "Ductless Mini-Splits", "text": "Quiet, efficient zoned comfort for apartments, additions and homes without ductwork." },
+    { "icon": "wrench", "title": "Maintenance Plans", "text": "Seasonal tune-ups that prevent breakdowns, lower energy bills and extend equipment life." },
+    { "icon": "wind", "title": "Indoor Air Quality", "text": "Filtration, purification and humidity control for cleaner, healthier air at home." }
+  ],
+
+  "offer": {
+    "title": "Save up to $1,500 on a New System",
+    "text": "Ask about current utility rebates and 0% financing options — we handle the paperwork.",
+    "button": "Check My Savings"
+  },
+
+  "why_title": "Local Technicians. Straight Answers. Work That Lasts.",
+  "why": [
+    { "icon": "clock", "title": "On-Time Arrival", "text": "We give you a real arrival window and call ahead. Your time matters." },
+    { "icon": "tag", "title": "Upfront Pricing", "text": "You approve the price before any work starts. No surprises on the invoice." },
+    { "icon": "shield", "title": "Licensed & Insured", "text": "Fully licensed, insured and background-checked technicians." },
+    { "icon": "thumb", "title": "Guaranteed Work", "text": "If it's not right, we come back and make it right — at no extra cost." }
+  ],
+
+  "about": {
+    "image": "",
+    "title": "A Family-Run Team Serving Our Neighbors",
+    "text": "We started with one van and a simple promise: show up when we say, explain the problem clearly, and fix it right the first time. Today our team serves thousands of homes and businesses across the borough.",
+    "signature": "The Northside Team"
+  },
+
+  "steps_title": "Comfort Restored in 3 Simple Steps",
+  "steps_intro": "No runaround. Here's exactly what happens when you reach out.",
+  "steps": [
+    { "title": "Call or Book Online", "text": "Tell us what's wrong. We'll schedule a time that works for you — often the same day." },
+    { "title": "Honest Diagnosis", "text": "Your technician inspects the system and walks you through options and pricing before starting." },
+    { "title": "Fixed & Guaranteed", "text": "We complete the work, clean up, and back it with our satisfaction guarantee." }
+  ],
+
+  "reviews_title": "What Our Customers Say",
+  "rating": { "value": "4.9", "count": "250", "link": "" },
+  "reviews": [
+    { "stars": 5, "name": "Cliente Exemplo 1", "place": "Astoria, NY", "text": "SUBSTITUA por uma avaliação real do Google do cliente." },
+    { "stars": 5, "name": "Cliente Exemplo 2", "place": "Long Island City, NY", "text": "SUBSTITUA por uma avaliação real do Google do cliente." },
+    { "stars": 5, "name": "Cliente Exemplo 3", "place": "Flushing, NY", "text": "SUBSTITUA por uma avaliação real do Google do cliente." }
+  ],
+
+  "areas_title": "Proudly Serving Queens & Nearby",
+  "areas_intro": "Fast response times across the borough and surrounding neighborhoods.",
+  "areas": ["Astoria", "Long Island City", "Sunnyside", "Woodside", "Jackson Heights", "Flushing", "Forest Hills", "Bayside", "Jamaica", "Ridgewood", "Greenpoint", "Williamsburg"],
+
+  "faq": [
+    { "q": "How much does an HVAC service call cost?", "a": "Our diagnostic visit is a flat fee that's credited toward the repair if you move forward. You'll always get the full price before work starts." },
+    { "q": "Do you offer emergency service?", "a": "Yes. We answer 24/7 and dispatch emergency technicians for no-heat and no-cool calls, nights and weekends included." },
+    { "q": "Are you licensed and insured?", "a": "Yes — fully licensed and insured, and every technician is trained and background-checked." },
+    { "q": "Do you offer financing?", "a": "Yes. We offer financing options on new system installations, subject to credit approval." },
+    { "q": "How long does a new AC installation take?", "a": "Most residential installations are completed in one day. Larger or ductwork projects may take two to three days." }
+  ],
+
+  "final": {
+    "eyebrow": "Don't Sweat It — Or Freeze",
+    "title": "Need Help Today? We're Ready.",
+    "text": "Call now and talk to a real person, day or night."
+  },
+
+  "footer_blurb": "Trusted heating and cooling experts serving Queens and nearby neighborhoods.",
+  "hours": ["Mon–Fri: 7am – 8pm", "Saturday: 8am – 6pm", "Sunday: Emergencies only", "24/7 emergency line"],
+  "social": [
+    { "name": "Facebook", "url": "https://facebook.com/" },
+    { "name": "Instagram", "url": "https://instagram.com/" }
+  ]
+}
