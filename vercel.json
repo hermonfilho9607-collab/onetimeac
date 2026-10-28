@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/saida/on-time-ac/index.html" },
+    { "source": "/:path((?!saida/).*)", "destination": "/saida/on-time-ac/:path" }
+  ]
+}
